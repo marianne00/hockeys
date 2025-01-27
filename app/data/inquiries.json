@@ -1,0 +1,34 @@
+{
+  "inquiries": [
+    {
+      "id": 1,
+      "title": "Our Equipment",
+      "description": "Do you have a complete set of hockey equipment?"
+    },
+    {
+      "id": 2,
+      "title": "Delivery Time",
+      "description": "How long does it take to deliver the equipment?"
+    },
+    {
+      "id": 3,
+      "title": "Payment Options",
+      "description": "What payment options do you accept?"
+    },
+    {
+      "id": 4,
+      "title": "Return Policy",
+      "description": "What is your return policy?"
+    },
+    {
+      "id": 5,
+      "title": "Warranty",
+      "description": "Do you offer a warranty for the equipment?"
+    },
+    {
+      "id": 6,
+      "title": "Customer Support",
+      "description": "How can I contact customer support?"
+    }
+  ]
+}
