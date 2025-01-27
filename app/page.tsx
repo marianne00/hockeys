@@ -1,6 +1,7 @@
 
 // import Swiper from "swiper";
 import Carousel from "./components/Carousel";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Club from "./sections/Club";
 import Contact from "./sections/Contact";
@@ -20,6 +21,7 @@ export default function Home() {
       <Products />
       <Inquiries />
       <Contact />
+      <Footer />
     </>
   );
 }
