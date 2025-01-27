@@ -19,7 +19,7 @@ const ProductCard = ({
     <div className='flex justify-between p-4 border border-gray-200 rounded-lg'>
       <Image
         src={image}
-        alt={name}
+        alt={name + '-hockeys'}
         width={180}
         height={172}
       />
